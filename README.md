@@ -10,3 +10,7 @@ Important features:
 - label --> Have or not a credit card
 
 How was it achieved?
+- The cleaning was achieved through different imputation methods such as: mean imputation, median, mode and multiple
+  imputaion
+- And the clasification algotrim that I used was the K-Nearest Neighbors, with this algoritm I got a pressicion percent
+  of 87%, the highest was with k = 3.
